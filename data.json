@@ -1,0 +1,196 @@
+[
+    {
+       "restaurantName":"L'Atelier De Julien",
+       "address":"39 Rue Beaumont, 06300 Nice",
+       "lat":43.703524,
+       "long":7.286358,
+       "ratings":[
+          {
+             "stars":4,
+             "comment":"Un excellent restaurant, j'y reviendrai ! Par contre il vaut mieux aimer la viande."
+          },
+          {
+             "stars":5,
+             "comment":"Tout simplement mon restaurant préféré !"
+          }
+       ]
+    },
+    {
+       "restaurantName":"Chez Pipo",
+       "address":"13 Rue Bavastro, 06000 Nice",
+       "lat":43.700291,
+       "long":7.286025,
+       "ratings":[
+          {
+             "stars":5,
+             "comment":"Une minuscule pizzeria délicieuse cachée juste à côté du Sacré choeur !"
+          },
+          {
+             "stars":3,
+             "comment":"J'ai trouvé ça correct, sans plus"
+          }
+       ]
+    },
+    {
+       "restaurantName":"Restaurant Grazie Mille",
+       "address":"25 Boulevard de Riquier, 06300 Nice",
+       "lat":43.703360, 
+       "long":7.289299,
+       "ratings":[
+          {
+             "stars":2,
+             "comment":"Je ne recommande pas"
+          },
+          {
+             "stars":1,
+             "comment":"Très décevant !"
+          },
+          {
+             "stars":1,
+             "comment":"Horrible"
+          }
+       ]
+    },
+    {
+       "restaurantName":"Le Café de Turin",
+       "address":"5 Place Garibaldi, 06300 Nice",
+       "lat":43.700868, 
+       "long":7.279764,
+       "ratings":[
+          {
+             "stars":5,
+             "comment":"Un vrai délice pour les amoureux des fruits de mer !"
+          },
+          {
+             "stars":4,
+             "comment":"J'ai passé un super moment, un vrai régal"
+          },
+          {
+             "stars":4,
+             "comment":"A faire et à refaire"
+          },
+          {
+             "stars":5,
+             "comment":"Si vous visitez Nice, voici un restaurant à ne pas louper"
+          }
+       ]
+    },
+    {
+       "restaurantName":"Les Amoureux",
+       "address":"46 Boulevard Stalingrad, 06300 Nice",
+       "lat":43.696593, 
+       "long":7.287129,
+       "ratings":[
+          {
+             "stars":5,
+             "comment":"J'y ai mangé l'une des meilleures pizza de Nice !"
+          }
+       ]
+    },
+    {
+       "restaurantName":"Demi lune",
+       "address":"2 Boulevard Lech Walesa, 06300 Nice",
+       "lat":43.700526, 
+       "long":7.287547,
+       "ratings":[
+          {
+             "stars":1,
+             "comment":"J'adore manger chinois, et je peux vous dire que c'est tout sauf de la nourriture chinoise !"
+          },
+          {
+             "stars":3,
+             "comment":"Bof des chez bof..."
+          },
+          {
+             "stars":1,
+             "comment":"Passé votre chemin"
+          }
+       ]
+    },
+    {
+       "restaurantName":"Pizza Coco",
+       "address":"38 Boulevard Risso, 06300 Nice",
+       "lat":43.703924,
+       "long":7.281400,
+       "ratings":[
+          {
+             "stars":3,
+             "comment":"Moyen, mais les tarifs sont corrects"
+          },
+          {
+             "stars":3,
+             "comment":"Rien de fantastique"
+          },
+          {
+             "stars":3,
+             "comment":"J'ai assez bien mangé mais je n'y retournerai pas"
+          }
+       ]
+    },
+    {
+       "restaurantName":"La P'tite Cocotte",
+       "address":"10 Rue Saint-Augustin, 06300 Nice",
+       "lat":43.699149, 
+       "long":7.278966,
+       "ratings":[
+          {
+             "stars":5,
+             "comment":"Un vrai délice !"
+          },
+          {
+             "stars":4,
+             "comment":"Idéale pour passer un bon moment entre amis"
+          },
+          {
+             "stars":4,
+             "comment":"Le must de la cuisine locale"
+          },
+          {
+             "stars":3,
+             "comment":"Mon QG ! un restaurant convivial avec un service au top"
+          },
+          {
+             "stars":5,
+             "comment":"Un sans faute"
+          }
+       ]
+    },
+    {
+       "restaurantName":"La Réserve de Nice",
+       "address":"60 Boulevard Franck Pilatte, 06300 Nice",
+       "lat":43.691646, 
+       "long":7.291498,
+       "ratings":[
+          {
+             "stars":5,
+             "comment":"Un vrai gastro, le prix vaut le coup, à faire seulement pour de grandes occasions"
+          },
+          {
+             "stars":4,
+             "comment":"Si vous aimez les services raffinés avec une vue sur la mer, c'est l'endroit idéal"
+          }
+       ]
+    },
+    {
+       "restaurantName":"Ma Nolan's Nice Port",
+       "address":"5 Quai des Deux Emmanuels, 06300 Nice",
+       "lat":43.697929, 
+       "long":7.286588,
+       "ratings":[
+          {
+             "stars":3,
+             "comment":"Un pur bar irlandais ! la musique et la bière sont au top !"
+          },
+          {
+             "stars":4,
+             "comment":"Des bons burgers dans une ambiance irlandaise ! Accompagnée d'une bonne bière brune !"
+          },
+          {
+             "stars":4,
+             "comment":"Soirée rock génial pour une soirée avec ses amis"
+          }
+       ]
+    }
+ ]
+ 
+ 
