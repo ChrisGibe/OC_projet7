@@ -10,7 +10,7 @@ function app() {
 
   const init = { method: "GET", headers: myHeaders, mode: "cors", cache: "default" };
 
-  fetch("https://ocprojet7.netlify.app/data.json", init)
+  fetch("https://projet7oc.netlify.app/data.json", init)
     .then((response) => response.json())
     .then((response) => {
       restaurants.push(...response);
