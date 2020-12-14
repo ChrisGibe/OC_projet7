@@ -16,7 +16,7 @@ class GoogleMaps {
     this.geolocation = false;
     this.userPosition = {};
     this.manager = this.manager;
-    this.userIcon = "http://maps.google.com/mapfiles/ms/icons/green-dot.png";
+    this.userIcon = "https://maps.google.com/mapfiles/ms/icons/green-dot.png";
     this.myDataIcon = "https://img.icons8.com/ultraviolet/40/000000/waiter.png";
     this.placeLibraryIcon = "https://img.icons8.com/offices/40/000000/waiter.png";
     this.load();
